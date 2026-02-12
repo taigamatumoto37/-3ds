@@ -1,0 +1,115 @@
+-----------[妖怪真打:マーク]-----------------
+
+<ROM>何軍に入っているか
+
+※〇には数字を入れる
+
+[ico_max]MAXマーク
+[ico_new]NEWマーク
+
+[y_type01]イサマシマーク
+[y_type02]フシギマーク
+[y_type03]ゴーケツマーク
+[y_type04]プリチーマーク
+[y_type05]ポカポカマーク
+[y_type06]ウスラカゲマーク
+[y_type07]ブキミーマーク
+[y_type08]ニョロロンマーク
+[y_type09]かいまマーク
+[y_type10]ボスマーク
+
+[bin_〇]斜め数字マーク
+[yen_〇]鬼玉数マーク
+
+[y_rank_0]Eランク
+[y_rank_1]Dランク
+[y_rank_2]Cランク
+[y_rank_3]Bランク
+[y_rank_4]Aランク
+[y_rank_5]Sランク
+[y_rank_6]ランクなし
+
+[home]ホームボタンマーク
+[g_coin]ゲームコインマーク
+
+[skill_lvbg0]透明星
+[skill_lvbg1]青星
+[skill_lvbg4]緑星
+[skill_lvbg7]金星
+
+ [skill_att_01]炎マーク 属性
+[skill_att_02]水マーク 属性
+[skill_att_03]雷マーク 属性
+[skill_att_04]岩マーク 属性
+[skill_att_05]氷マーク 属性
+[skill_att_06]風マーク 属性
+[skill_att_07]吸収マーク 属性
+
+[mi_npc]人マーク
+[mi_npc2]妖怪マーク
+[mi_shop]緑人マーク
+[mi_cross]妖怪マーク(水色)
+[mi_enemy]敵マーク
+
+[stack_◯]持ち物残り個数
+[shop_stack_bg]店の残り個数の吹き出し
+
+[md_lv_◯] lvの数字 (小さいver)
+[lv_〇]lvの数字
+
+[skill_lvmax]王冠
+
+[/]なんかの拍子に/マークになる
+[+]＋マーク
+[-]－マーク
+[:]：マーク  時間マーク
+[×]xマーク
+[*]xこっち？
+[?]？マーク
+[~]~マーク
+
+[mission]話しかけるとミッションを開始できるやつ
+[empty]白の横線
+[next_arrow]赤矢印
+[key]鍵マーク
+[f_yen]円マーク
+
+~色~
+<C0> 緑
+<C1> 黒
+<C2> 白
+<C3> 赤
+<C4> 濃い黄色
+<C5> 濃い緑
+<C6> 青
+<C7> だいだい
+<C8> オレンジ
+<C9> 茶色
+<C10> 灰色
+<C11> 薄い灰色
+<C12> ピンク
+<C13> 水色
+<C14> 緑めの黄色
+<C16> 少し薄い黒
+<C17> 黄色
+<C18> 黄緑
+<C19> 少し薄い赤
+<PNAME> 見た人にとってその人の名前になる
+
+<VAL#tmp_seek_num/#ruby_nin>
+ = 0人
+<VAL#tmp_quest_time/#ruby_hun>
+ = 0
+<VAL#tmp_seek_num/#ruby_hiki>
+ = 0匹
+<VAL#tmp_gate_rest_enemy>
+
+ = 0
+<CHARA_NAME>(文字)
+ = キャラクターの名前なので太文字になる 
+<QVAL#qr001X/#ruby_hiki>
+ = Xに数字(0 = 1,1 = 3,2 = 4)
+   X匹となる
+<QVAL#qr001X/#ruby_nin>
+ = Xに数字(0 = 1,1 = 3,2 = 4)
+   X人となる
